@@ -1,0 +1,3 @@
+27 oct  2026,Food,250.0,ate dosa and tea
+27 oct  2026,Food,250.0,ate dosa and tea
+28 oct 2026,Travel,600.0,went to mall
